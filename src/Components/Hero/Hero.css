@@ -2,7 +2,9 @@
     width: 100%;
     min-height: 100vh;
     /* background: linear-gradient(rgba(8,0,58,0.7),rgba(8,0,58,0.7)), url('../../assets/_plui.jpg'); */
-    background: linear-gradient(#3136337e,rgba(0, 0, 0, 0)), url('../../assets/_plui.jpg');
+    /* background: linear-gradient(#3136337e,rgba(0, 0, 0, 0)), url('../../assets/_plui.jpg'); */
+    background: linear-gradient(#00000045,rgba(0, 0, 0, 0)), url('../../assets/_trees.jpg');
+
 
     background-size: cover;
     background-position: center;

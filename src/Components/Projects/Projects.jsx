@@ -33,30 +33,6 @@ const Projects = () => {
                 </div>
             </div>
         </div>
-
-        <div className='programs'>
-
-        <div className="program">
-            <img src={projects_trash1} alt="" />
-            <div className="caption">
-                <p>Juja Market</p>
-            </div>
-        </div>
-        <div className="program">
-            <img src={projects_githurai} alt="" />
-            <div className="caption">
-                <p>Githurai Market</p>
-            </div>
-        </div>
-        <div className="program">
-            <img src={projects_trash2} alt="" />
-            <div className="caption">
-                <p>Uhuru Park</p>
-            </div>
-        </div>
-        </div>
-
-
         </div>
     )
 }
