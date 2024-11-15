@@ -1,5 +1,6 @@
 
 import React, {useEffect, useState} from 'react'
+import { useLocation } from 'react-router-dom';
 import './Navbar.css'
 import {Link} from 'react-scroll'
 import logo from '../../assets/logo.png'
@@ -8,6 +9,7 @@ import menu_icon from '../../assets/menu-icon.png'
 const Navbar = () => {
 
     const [sticky, setSticky] = useState(false);
+    const homeUrl = useLocation().pathname;
 
     useEffect(()=>{
         window.addEventListener('scroll', ()=>{
@@ -22,7 +24,7 @@ const Navbar = () => {
  
 
   return (
-    <nav className= {`container ${sticky ? 'dark-nav': ''}`}> 
+    <nav className= {`container ${sticky ? 'dark-nav': ''} ${homeUrl !== "/jani/" ? 'dark-nav': ''}`}> 
         <img src={logo} alt='' className='logo' /> 
         <ul className={mobileMenu ? '' : 'hide-mobile-menu'}>
            <li><Link className='text' to='hero' smooth={true} offset={0} duration={500}>Home</Link></li>

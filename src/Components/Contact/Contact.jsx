@@ -41,7 +41,7 @@ const Contact = () => {
                 <p>Feel free to reach out through contact form or find our contact information below. Your feedback, questions, and suggestions are important to us as we strive to provide exceptional service to our   community.</p>
                 <ul>
                     <li><img src={mail_icon} alt="" />janikenya254@gmail.com</li>
-                    <li><img src={phone_icon} alt="" />+2547 12 484 629</li>
+                    {/* <li><img src={phone_icon} alt="" />+2547 12 484 629</li> */}
                     <li><img src={location_icon} alt="" /> Nairobi<br /> Kenya</li>
                 </ul>
             </div>
