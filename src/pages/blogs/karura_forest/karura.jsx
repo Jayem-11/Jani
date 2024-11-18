@@ -22,7 +22,7 @@ const Karura = () => {
             plan to plant over 500 trees in Karura Forest, one of Nairobi’s most
             beautiful and historic green spaces. This initiative is more than
             just about planting trees, it’s about connecting with nature,
-            preserving our environment, and making a meaningful impact on the
+            preserving our environment, and making a meaningful impact on the 
             world around us.
           </p>
         </div>
