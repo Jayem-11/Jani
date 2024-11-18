@@ -101,6 +101,13 @@ margin: 20px auto;
     max-width: 400px;
     margin: auto;
   }
+
+  .b1 h2 {
+    font-size: 14px;
+    margin: 10px auto ;
+
+  }
+
   .b1 p {
     font-size: 14px;
     margin: 15px auto 30px;
