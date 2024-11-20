@@ -22,7 +22,7 @@ const Karura = () => {
             plan to plant over 500 trees in Karura Forest, one of Nairobi’s most
             beautiful and historic green spaces. This initiative is more than
             just about planting trees, it’s about connecting with nature,
-            preserving our environment, and making a meaningful impact on the 
+            preserving our environment, and making a meaningful impact on the
             world around us.
           </p>
         </div>
@@ -31,37 +31,42 @@ const Karura = () => {
             <img src={karura_img_1} alt="" className="k-img" />
           </div>
           <div className="k-right">
-            
             <p>
               As we’ve prepared for this project, we’ve had the privilege of
               meeting David, one of Karura’s long-time workers. Spending time
               with him has been a highlight of this journey. David knows the
               forest like the back of his hand, and his passion for conservation
               is contagious. He introduced us to some of the tree species we’ll
-              be planting, explaining their importance to Karura’s ecosystem.
-              For example, some species provide food and shelter for wildlife,
-              while others play a crucial role in preventing soil erosion and
-              purifying the air. David’s stories brought these trees to life,
-              making us even more excited to get started.
+              be planting, explaining their importance to Karura’s ecosystem and
+              how each species has a unique role to play. For example, some
+              species provide food and shelter for wildlife, sustaining
+              biodiversity and offering protection to vulnerable animals, while
+              others play a crucial role in preventing soil erosion and
+              purifying the air. His deep knowledge of Karura's flora and fauna
+              opened our eyes to how interconnected everything in the forest
+              truly is. David’s stories brought these trees to life, making us
+              even more excited to get started on this journey to create a
+              lasting impact.
             </p>
-            
           </div>
         </div>
         <div className="k">
           <div className="k-right">
-            
             <p>
               But what stuck with us was hearing about Karura’s history. David
               shared how the forest was once under threat from development and
               how the dedication of environmentalists like Wangari Maathai saved
               it. Today, it’s a place of peace, beauty, and resilience, a
               reminder of what we can achieve when we come together to protect
-              our planet. As we look ahead to this tree-planting day, we’re
-              reminded that small actions, like planting a tree, can lead to big
-              changes. Each sapling we plant represents hope for the future,
-              hope for a healthier environment, and a greener Kenya.
+              our planet.The transformation of Karura into a thriving ecosystem
+              also inspires local communities to take pride in its preservation
+              and benefits. It’s a testament to the unwavering spirit of those
+              who fought for its survival and the ongoing importance of
+              nurturing its biodiversity. As we look ahead to this tree-planting
+              day, we’re reminded that small actions, like planting a tree, can
+              lead to big changes. Each sapling we plant represents hope for the
+              future, hope for a healthier environment, and a greener Kenya.
             </p>
-            
           </div>
           <div className="k-left">
             <img src={karura_img_2} alt="" className="k-img" />
@@ -70,10 +75,17 @@ const Karura = () => {
 
         <div className="blog_content">
           <p>
-            We’d love for you to be part of this journey with us. Whether it’s
-            joining us on the planting day or simply spreading the word, every
-            bit of support counts. Let’s work together to make Karura even
-            greener and show what’s possible when we care for our environment.
+            As we look ahead to this tree-planting day, we’re reminded that
+            small actions, like planting a tree, can lead to big changes over
+            time. Each sapling we plant represents hope for the future, hope for
+            a healthier environment, and a greener Kenya. These trees will one
+            day grow into towering giants, providing shade, cleaning the air,
+            and supporting wildlife for generations to come.
+             We’d love for you to be part
+            of this journey with us. Whether it’s joining us on the planting day
+            or simply spreading the word, every bit of support counts. Let’s
+            work together to make Karura even greener and show what’s possible
+            when we care for our environment.
           </p>
         </div>
         <div className=" b-btn">
