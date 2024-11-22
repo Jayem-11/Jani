@@ -10,7 +10,7 @@ const Projects = () => {
     <div>
       <div className="programs">
         <div className="program">
-          <Link to="/jani/karura">
+          <Link to="/karura">
             <img src={projects_karura} alt="" />
             <div className="caption">
               <p>Karura Forest</p>

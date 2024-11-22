@@ -89,7 +89,7 @@ const Karura = () => {
           </p>
         </div>
         <div className=" b-btn">
-          <Link to="/jani/home" className="btn dark-btn">
+          <Link to="/home" className="btn dark-btn">
             {" "}
             <img className="w-a" src={white_arrow} alt="" /> Back Home
           </Link>
